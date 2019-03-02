@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SendCommand : MonoBehaviour {
 
-    string URL = "www.tamernasser.com/connection.php";
+    string URL = "server/connection.php";
     //public string Inputid, Inputcommand;
     public GameObject[] btn;
 
