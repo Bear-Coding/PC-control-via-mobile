@@ -10,6 +10,6 @@ The "Server" directory contains the PHP files to connect with the database from 
 - Edit the "connection.php" file, add your own database/host details.
 
 ## ToDo list:
-- Login/Register for the phone version.
+- Login/Register for the phone version. - Done
 - Approve the "connection" via code or just accept something (PC version).
 - Update the database so it logs all commands.
