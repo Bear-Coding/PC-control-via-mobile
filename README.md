@@ -5,7 +5,7 @@ The "Mobile" directory contains the application to be used on mobile(currently o
 The "Server" directory contains the PHP files to connect with the database from the mobile app.
 
 
-## Requirements to try the project: 
+## Requirements to get the project working: 
 - Create a database(Local or online if you own host), add the required tables/fields(Will be updated from time to time).
 - Edit the "connection.php" file, add your own database/host details.
 
