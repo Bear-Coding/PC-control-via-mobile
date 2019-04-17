@@ -11,7 +11,7 @@ using MySql.Data.MySqlClient;
 /// </summary>
 public class Condb
 {
-    private string connectionString = "server=107.180.47.59;  port=3306; database=PC_Controller; UID=Root1337; Password=Warrock1231n;";
+    private string connectionString = "server=107.180.47.59;  port=3306; database=PC_Controller; ";
     MySqlConnection con;
     public Condb()
     {
